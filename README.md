@@ -1,22 +1,14 @@
-# Welcome to your Lovable project
+# Welcome to Eco-Vyapaar!
 
-## Project info
+## Project information:-
 
-**URL**: https://lovable.dev/projects/fbd91c06-ee91-4ba1-8ee1-586c1b58d254
+Tech Empowerment for India’s Street Vendors-
+Proud to present our project Eco Vyapaar a real-world solution to help India’s small street food vendors access affordable, trusted raw materials and manage them smartly — even if they’re not tech-savvy.
 
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/fbd91c06-ee91-4ba1-8ee1-586c1b58d254) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
+## How to access the project?
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+If you want to work locally using your own IDE, you can clone this repository.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -62,12 +54,4 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/fbd91c06-ee91-4ba1-8ee1-586c1b58d254) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+# Read more about this project:- https://www.linkedin.com/posts/archit-mittal-010638305_ecovyapaar-tutedude-teammavericks-activity-7355260151588700162-viq7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEP7pFkBn-zv4qlIZ72xDDEK-UqXtPx7pA4
