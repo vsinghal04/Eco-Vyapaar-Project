@@ -3,7 +3,7 @@
 ## Project information:-
 
 Tech Empowerment for India’s Street Vendors-
-Proud to present our project Eco Vyapaar a real-world solution to help India’s small street food vendors access affordable, trusted raw materials and manage them smartly — even if they’re not tech-savvy.
+Proud to present the project Eco Vyapaar a real-world solution to help India’s small street food vendors access affordable, trusted raw materials and manage them smartly — even if they’re not tech-savvy.
 
 ## How to access the project?
 **Use your preferred IDE**
@@ -54,4 +54,4 @@ This project is built with:
 
 ## How can I deploy this project?
 
-# Read more about this project:- https://www.linkedin.com/posts/archit-mittal-010638305_ecovyapaar-tutedude-teammavericks-activity-7355260151588700162-viq7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEP7pFkBn-zv4qlIZ72xDDEK-UqXtPx7pA4
+Read more about this project:- https://www.linkedin.com/posts/archit-mittal-010638305_ecovyapaar-tutedude-teammavericks-activity-7355260151588700162-viq7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEP7pFkBn-zv4qlIZ72xDDEK-UqXtPx7pA4
