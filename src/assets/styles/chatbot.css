@@ -1,0 +1,46 @@
+/* Styling for the Chatbot Button */
+.chatbot-button {
+    position: fixed; /* Fixes it relative to the viewport */
+    bottom: 20px;    /* 20px from the bottom */
+    right: 20px;     /* 20px from the right */
+    background-color: #007bff; /* Example blue color */
+    color: white;
+    border: none;
+    border-radius: 50%; /* Makes it circular */
+    width: 60px;     /* Width of the button */
+    height: 60px;    /* Height of the button */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+    z-index: 1000;   /* Ensures it's on top of other content */
+    transition: background-color 0.3s ease; /* Smooth transition on hover */
+    font-size: 24px; /* Adjust font size for Font Awesome icon */
+}
+
+.chatbot-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Style for the Chatbot Widget (hidden by default) */
+.chatbot-widget {
+    position: fixed;
+    bottom: 90px; /* Adjust based on button height + desired spacing */
+    right: 20px;
+    width: 320px; /* Width of the chatbot window */
+    height: 450px; /* Height of the chatbot window */
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    z-index: 999; /* Slightly lower than button, but still high */
+    display: none; /* Hidden by default, JavaScript will toggle this */
+    overflow: hidden; /* Important for iframes or internal content */
+}
+
+.chatbot-widget iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
