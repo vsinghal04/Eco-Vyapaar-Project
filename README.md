@@ -54,4 +54,6 @@ This project is built with:
 
 ## How can I deploy this project?
 
+Use netlify or vercel etc...
+
 Read more about this project:- https://www.linkedin.com/posts/archit-mittal-010638305_ecovyapaar-tutedude-teammavericks-activity-7355260151588700162-viq7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEP7pFkBn-zv4qlIZ72xDDEK-UqXtPx7pA4
