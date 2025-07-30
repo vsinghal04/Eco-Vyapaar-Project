@@ -24,7 +24,7 @@ const App = () => (
         <BrowserRouter>
           <Routes>
             <Route path="/" element={<Index />} />
-            <Route path="/products" element={<PriceComparison />} /> {/* yaha changes kare hai */}
+            <Route path="/products" element={<Products />} /> {/* yaha changes kare hai */}
             <Route path="/cart" element={<CartPage />} />
             {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
             <Route path="*" element={<NotFound />} />
