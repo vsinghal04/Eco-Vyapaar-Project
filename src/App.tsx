@@ -11,6 +11,7 @@ import React from "react";
 import ChatbotButton from "./components/ChatbotButton";
 import './App.css'
 import NotFound from "./pages/NotFound";
+import ProductSearch from "./components/ProductSearch";
 
 const queryClient = new QueryClient();
 
@@ -23,7 +24,7 @@ const App = () => (
         <BrowserRouter>
           <Routes>
             <Route path="/" element={<Index />} />
-            <Route path="/products" element={<Products />} />
+            <Route path="/products" element={<ProductSearch />} /> {/* yaha changes kare hai */}
             <Route path="/cart" element={<CartPage />} />
             {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
             <Route path="*" element={<NotFound />} />
@@ -35,3 +36,4 @@ const App = () => (
 );
 
 export default App;
+
