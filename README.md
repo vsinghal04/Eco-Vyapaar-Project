@@ -52,7 +52,7 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+## How can you deploy this project?
 
 Use netlify or vercel etc...
 
